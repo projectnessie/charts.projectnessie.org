@@ -5,7 +5,7 @@ This is the official Helm Charts repository for installing Nessie on Kubernetes.
 ## Setup
 
 ```bash
-$ helm repo add nessie https://projectnessie.org/charts/
+$ helm repo add nessie https://charts.projectnessie.org
 $ helm repo update
 
 $ helm install nessie/nessie
