@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   nessie:
   - apiVersion: v2
+    created: "2022-03-23T21:33:25.363722045Z"
+    description: A Helm chart for Nessie
+    digest: bbed7d67a526e707ce135739dbfaa941c0c83ee1fc6ea57c90e048df5f03b7ec
+    name: nessie
+    type: application
+    urls:
+    - https://github.com/projectnessie/nessie/releases/download/nessie-0.23.1/nessie-helm-0.23.1.tgz
+    version: 0.23.1
+  - apiVersion: v2
     created: "2022-03-23T17:44:03.900735171Z"
     description: A Helm chart for Nessie
     digest: 8a390ce4ae0211201a47b165dde4f0a27e3b6398b6a3d395fe5b7d3c5e7de332
@@ -181,4 +190,4 @@ entries:
     urls:
     - https://github.com/projectnessie/nessie/releases/download/nessie-0.9.0/nessie-helm-0.9.0.tgz
     version: 0.9.0
-generated: "2022-03-23T17:44:03.899785187Z"
+generated: "2022-03-23T21:33:25.362713433Z"
