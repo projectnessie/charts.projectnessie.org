@@ -74,15 +74,6 @@ entries:
     - https://github.com/projectnessie/nessie/releases/download/nessie-0.23.1/nessie-helm-0.23.1.tgz
     version: 0.23.1
   - apiVersion: v2
-    created: "2022-03-23T17:44:03.900735171Z"
-    description: A Helm chart for Nessie
-    digest: 8a390ce4ae0211201a47b165dde4f0a27e3b6398b6a3d395fe5b7d3c5e7de332
-    name: nessie
-    type: application
-    urls:
-    - https://github.com/projectnessie/nessie/releases/download/nessie-0.23.0/nessie-helm-0.23.0.tgz
-    version: 0.23.0
-  - apiVersion: v2
     created: "2022-03-11T12:48:20.18211757Z"
     description: A Helm chart for Nessie
     digest: 1de3119904694a41b25460bca06affe37759a828dd01d063642699f2f5a868b0
@@ -226,15 +217,6 @@ entries:
     urls:
     - https://github.com/projectnessie/nessie/releases/download/nessie-0.10.1/nessie-helm-0.10.1.tgz
     version: 0.10.1
-  - apiVersion: v2
-    created: "2021-10-08T16:51:35.486132146Z"
-    description: A Helm chart for Nessie
-    digest: 51b63bc9be8458d771f375701ed8ed91bb16b9db8b71b0179f0ed0163af7681d
-    name: nessie
-    type: application
-    urls:
-    - https://github.com/projectnessie/nessie/releases/download/nessie-0.10.0/nessie-helm-0.10.0.tgz
-    version: 0.10.0
   - apiVersion: v2
     created: "2021-08-26T19:19:15.426687156Z"
     description: A Helm chart for Nessie
