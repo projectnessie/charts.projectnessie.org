@@ -2,6 +2,31 @@ apiVersion: v1
 entries:
   nessie:
   - apiVersion: v2
+    created: "2023-03-20T19:27:03.617007866Z"
+    description: A Helm chart for Nessie
+    digest: 0721c3f6a5802760866f6e63ef8521a653b15fd0df64b825c0730abfb221970f
+    home: https://projectnessie.org/
+    icon: https://raw.githubusercontent.com/projectnessie/nessie/main/site/docs/img/nessie.svg
+    keywords:
+    - nessie
+    - iceberg
+    - delta
+    - data lake
+    - transactional catalog
+    - git-like semantics
+    maintainers:
+    - name: nastra
+    - name: snazy
+    - name: dimas-b
+    - name: adutra
+    name: nessie
+    sources:
+    - https://github.com/projectnessie/nessie
+    type: application
+    urls:
+    - https://github.com/projectnessie/nessie/releases/download/nessie-0.52.3/nessie-helm-0.52.3.tgz
+    version: 0.52.3
+  - apiVersion: v2
     created: "2023-03-07T06:28:20.456701105Z"
     description: A Helm chart for Nessie
     digest: 30ee436cf665639114e3ad64bf2e7ab6e7613c1cb5e3f79127b59b0098bff6a7
@@ -742,4 +767,4 @@ entries:
     urls:
     - https://github.com/projectnessie/nessie/releases/download/nessie-0.9.0/nessie-helm-0.9.0.tgz
     version: 0.9.0
-generated: "2023-03-07T06:28:20.454816099Z"
+generated: "2023-03-20T19:27:03.615401347Z"
