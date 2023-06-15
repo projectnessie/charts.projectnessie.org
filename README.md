@@ -14,5 +14,5 @@ $ helm install nessie/nessie
 
 ## Documentation
 
-The documentation for Nessie's Helm Chart is available [here](https://github.com/projectnessie/nessie/tree/main/helm/README.md).
+The documentation for Nessie's Helm Chart is available [here](https://github.com/projectnessie/nessie/tree/main/helm/nessie/README.md).
 
