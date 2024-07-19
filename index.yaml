@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   nessie:
   - apiVersion: v2
-    created: "2024-07-19T10:03:03.104438285Z"
+    created: "2024-07-19T18:51:11.412792651Z"
     description: A Helm chart for Nessie
-    digest: cd3facf034130d7800f60866cf338c0a2a35f50aecd9c70c5c188f17803bb642
+    digest: be684d1b3f32db21dc2ec41030cbda51aed5579af34f74c019e69f6f61863d01
     home: https://projectnessie.org/
     icon: https://raw.githubusercontent.com/projectnessie/nessie/main/site/docs/img/nessie.svg
     keywords:
@@ -2367,4 +2367,4 @@ entries:
     urls:
     - https://github.com/projectnessie/nessie/releases/download/nessie-0.9.0/nessie-helm-0.9.0.tgz
     version: 0.9.0
-generated: "2024-07-19T10:03:03.101551971Z"
+generated: "2024-07-19T18:51:11.410159726Z"
